@@ -1,0 +1,11 @@
+　φ(n) = (p-1)(q-1)   // 
+
+
+　17x + 3120y = 1   
+
+
+　　me 《 c (mod n)   //get c
+
+  　cd 《 m (mod n)   /get m  m is origin character
+
+
